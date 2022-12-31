@@ -49,14 +49,14 @@
     "lodash.foreach": "^4.5.0"
   },
   "devDependencies": {
-    "bili": "^3.1.2",
+    "bili": "^5.0.5",
     "node-sass": "^4.9.0",
-    "poi": "^10.1.6",
-    "rollup-plugin-vue": "^3.0.0",
-    "sass-loader": "^6.0.6",
+    "poi": "^12.10.3",
+    "rollup-plugin-vue": "^6.0.0",
+    "sass-loader": "^13.2.0",
     "vue": "^2.5.16",
     "vue-template-compiler": "^2.5.16",
-    "vuepress": "^0.10.1",
-    "webpack": "^4.8.3"
+    "vuepress": "^1.9.7",
+    "webpack": "^5.75.0"
   }
 }
